@@ -1,0 +1,31 @@
+HTML {margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+BODY {line-height: 1;padding: 20px; padding-top: 0; margin: 0;background-color: #f9faff; font-family: "Times New Roman"; background: #f9faff url(../img/bgWotWiki.jpg) repeat; }
+.box {
+    width: 1000px;
+    overflow: hidden;
+    margin: auto;
+    padding: 15px;
+    text-align: left;
+    font-size: 20px;
+    color: #555;
+    border-radius: 15px;
+    margin-top: 20px;
+    box-shadow: #b3b0b0 0 0 7px;
+    background: #f9faff url(../img/01_polar_white_fl.jpg) repeat;
+}
+    .text1 {
+        padding-left: 12px;
+        font-size: 24px;
+    }
+    .logoBoxUrl {
+        float: left;
+        padding-right: 12px;
+    }
+    .urlBox {
+        box-shadow: #757575 0 0 7px;
+        border-radius: 7px;
+    }
+    .hiddenImg {
+        display: none;
+    }
+
